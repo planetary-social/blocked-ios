@@ -20,15 +20,6 @@
         }
       },
       {
-        "package": "Secrets",
-        "repositoryURL": "https://github.com/planetary-social/secrets-ios",
-        "state": {
-          "branch": null,
-          "revision": "0952c06da65df7691fa7a5600a0ff3dd602088f2",
-          "version": "0.0.3"
-        }
-      },
-      {
         "package": "swift-log",
         "repositoryURL": "https://github.com/apple/swift-log.git",
         "state": {
